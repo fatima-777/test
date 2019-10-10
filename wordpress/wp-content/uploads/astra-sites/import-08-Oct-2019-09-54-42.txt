@@ -1,0 +1,137 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.3.8
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 8 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 21:58:25 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 270
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"2.0.0","theme-auto-version":"2.0.1","site-sidebar-layout":"no-sidebar","site-content-layout":"boxed-container","header-layouts":"header-main-layout-1","header-main-sep":0,"ast-header-responsive-logo-width":{"desktop":"132","tablet":"","mobile":"130"},"display-site-title":false,"site-layout-outside-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"theme-color":"#ff770f","link-color":"#ff770f","link-h-color":"#000000","body-font-family":"'Josefin Sans', sans-serif","body-font-weight":"400","font-size-body":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h1":{"desktop":"70","tablet":"58","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"50","tablet":"45","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"36","tablet":"32","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"28","tablet":"25","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"22","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"18","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"text-color":"#000000","footer-sml-divider":0,"footer-bg-obj":{"background-color":"rgba(8,12,17,0)","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"header-main-rt-section":"button","primary-submenu-item-border":1,"button-bg-color":"#ff770f","button-bg-h-color":"#ff8800","button-radius":30,"header-main-rt-section-html":"","button-v-padding":8,"button-color":"#ffffff","button-h-color":"#141414","different-mobile-logo":false,"mobile-header-logo":"","mobile-header-toggle-btn-style":"fill","mobile-header-toggle-btn-style-color":"#ff770f","mobile-header-toggle-btn-border-radius":3,"footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | Powered by [site_title]","hide-custom-menu-mobile":false,"above-header-submenu-item-border":1,"below-header-submenu-item-border":1,"body-font-variant":"400","transparent-header-enable":0,"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"logo-title-inline":0,"wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"header-main-rt-section-button-text":"Reservation","header-main-rt-section-button-link":"#","_astra_pb_compatibility_completed":true},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/283/wxr.xml
+Inserted - Term 3 - {"term_id":3,"name":"Primary Menu","slug":"primary-menu","term_group":0,"term_taxonomy_id":3,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 4 - {"term_id":4,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":4,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 5 - {"term_id":5,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":5,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 271 - page - Home
+Inserted - Post 272 - page - About Us
+Inserted - Post 273 - page - Menu
+Inserted - Post 274 - page - Contact
+Inserted - Post 17 - nav_menu_item - 
+Inserted - Post 275 - nav_menu_item - 
+Inserted - Post 19 - nav_menu_item - 
+Inserted - Post 276 - nav_menu_item - 
+Inserted - Post 277 - attachment - hero01-free-img
+Inserted - Post 68 - attachment - quotes2-free-img
+Inserted - Post 83 - attachment - hero04-free-img
+Inserted - Post 86 - attachment - frill-free-img
+Inserted - Post 278 - attachment - knife-free-imge
+Inserted - Post 279 - attachment - fork-free-img
+Inserted - Post 92 - attachment - divider-free-img
+Inserted - Post 93 - attachment - pic07-free-img
+Inserted - Post 97 - attachment - pic08-free-img
+Inserted - Post 107 - attachment - leaf-free-img
+Inserted - Post 110 - attachment - pic16-free-img
+Inserted - Post 111 - attachment - pic17-free-img
+Inserted - Post 113 - attachment - pic18-free-img
+Inserted - Post 115 - attachment - pic19-free-img
+Inserted - Post 126 - attachment - pic25-free-img
+Inserted - Post 128 - attachment - pic27-free-img
+Inserted - Post 130 - attachment - pic28-free-img
+Inserted - Post 282 - attachment - pic32-free-img
+Inserted - Post 137 - attachment - pic33-free-img
+Inserted - Post 141 - attachment - pic34-free-img
+Inserted - Post 143 - attachment - 5stars-free-img
+Inserted - Post 154 - attachment - pic36-free-img
+Inserted - Post 285 - attachment - pic38-free-img
+Inserted - Post 170 - attachment - pic39-free-img
+Inserted - Post 172 - attachment - pic41-free-img
+Inserted - Post 175 - attachment - pic42-free-img
+Inserted - Post 176 - attachment - pic43-free-img
+Inserted - Post 177 - attachment - pic44-free-img
+Inserted - Post 178 - attachment - pic45-free-img
+Inserted - Post 179 - attachment - pic46-free-img
+Inserted - Post 180 - attachment - try
+Inserted - Post 182 - attachment - pic48-free-img
+Inserted - Post 183 - attachment - pic49-free-img
+Inserted - Post 184 - attachment - pic50-free-img
+Inserted - Post 185 - attachment - pic51-free-img
+Inserted - Post 190 - attachment - pic55-free-img
+Inserted - Post 202 - attachment - pic58-free-img
+Inserted - Post 206 - attachment - chef01-free-img
+Inserted - Post 208 - attachment - pic61-free-img
+Inserted - Post 209 - attachment - pic54-free-img
+Inserted - Post 210 - attachment - chef02-free-img
+Inserted - Post 213 - attachment - chef04-free-img
+Inserted - Post 216 - attachment - slider3.jpg
+Inserted - Post 291 - attachment - chef07-free-img
+Inserted - Post 292 - attachment - old-typical-phone
+Inserted - Post 293 - attachment - pic62-free-img
+Inserted - Post 294 - attachment - pic64-free-img
+Inserted - Post 295 - attachment - yelp-free-img
+Inserted - Post 296 - attachment - tripadvisorlogo1-free-img
+Inserted - Post 297 - attachment - google-reviews-free-img
+Inserted - Post 298 - attachment - fb-free-imng
+Inserted - Post 299 - attachment - tweet-free-img
+Inserted - Post 300 - attachment - fresco-free-logo
+Inserted - Post 301 - attachment - favicon-free-img
+Inserted - Post 302 - attachment - italian-restaurant-facebook-yoast-free-img
+Inserted - Post 303 - custom_css - astra
+Inserted - Post 304 - post - Maecenas ornare mi id neque
+Inserted - Post 305 - attachment - Pizza
+Inserted - Post 306 - post - Pellentesque nec finibus metus
+Inserted - Post 307 - attachment - Pizza-2
+Inserted - Post 308 - post - Duis vehicula finibus ultrices
+Inserted - Post 309 - attachment - Pasta
+Inserted - Post 310 - post - Proin quis velit id neque suscipit
+Inserted - Post 311 - attachment - cooking
+Inserted - Post 313 - post - Aliquam eros turpis
+Inserted - Post 316 - attachment - Pizza-3
+Inserted - Post 320 - page - Blog
+Inserted - Post 322 - attachment - blog-bg-free-img
+Inserted - Post 353 - post - Morbi ornare pulvinar
+Inserted - Post 354 - attachment - Pizza-4
+Inserted - Post 368 - nav_menu_item - 
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'Test' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 321
+Post ID: 317
+Post ID: 314
+Post ID: 315
+Post ID: 260
+Post ID: 26
+Post ID: 27
+Post ID: 28
+Post ID: 29
+Post ID: 24
+Batch Process Complete!
